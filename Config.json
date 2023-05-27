@@ -1,13 +1,13 @@
 ﻿{
 	//定义Jar地址
-	"spider":"clan://TVBox/Main.jar",
+	"spider":"https://ghproxy.com/https://raw.githubusercontent.com/OHeJinfu/HvBox/main/Main.jar",
 	"lives":[
 		{
 		"group":"redirect",
 		"channels":[
 			{
 			"name":"redirect",
-			"urls":["proxy://do=live&type=txt&ext=Y2xhbjovL1RWQm94L0xpdmUudHh0"]
+			"urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vT0hlSmluZnUvSHZCb3gvbWFpbi9MaXZlLnR4dA=="]
 			}
 		]
 		}
