@@ -1,5 +1,4 @@
 ﻿{
-	//定义Jar地址
 	"spider":"https://ghproxy.com/https://raw.githubusercontent.com/OHeJinfu/HvBox/main/Main.jar",
 	"lives":[
 		{
